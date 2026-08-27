@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CareerLens AI 🚀
 
-## Getting Started
+CareerLens AI is an AI-powered career companion built to help students and job seekers prepare for their next career opportunity.
 
-First, run the development server:
+From creating a better resume to preparing for interviews and understanding career options, CareerLens AI brings useful career tools together in one place.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ What can you do with CareerLens AI?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 📄 **Build your Resume**  
+  Create and edit a professional resume with an easy-to-use resume builder.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 🤖 **AI Career Guidance**  
+  Get personalized career suggestions and insights based on your goals and interests.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🎤 **Interview Preparation**  
+  Practice interview questions and improve your preparation with AI-powered feedback.
 
-## Learn More
+- ✍️ **AI Cover Letter Generator**  
+  Generate personalized cover letters based on your profile and the job you're applying for.
 
-To learn more about Next.js, take a look at the following resources:
+- 📊 **Industry Insights**  
+  Explore career trends, skills, and useful insights to better understand your target industry.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🔐 **Secure Authentication**  
+  User authentication and account management are handled securely.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+### Frontend
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+- Shadcn/UI
+- Lucide Icons
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Backend & Database
+- Next.js Server Actions
+- PostgreSQL
+- Prisma ORM
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### AI & Services
+- AI-powered career assistance
+- Clerk Authentication
+- Resume and cover letter generation
+
+### Tools
+- Git
+- GitHub
+- VS Code
